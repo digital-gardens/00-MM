@@ -13862,3 +13862,12 @@ bash
 python
 python@@@@@
 shutdown /h
+shutdown /r
+shutdown /l
+shutdown /h
+shutdown 
+shutdown /s /?
+shutdown /s 
+shutdown /r
+shutdown /s 
+shutdown /l
