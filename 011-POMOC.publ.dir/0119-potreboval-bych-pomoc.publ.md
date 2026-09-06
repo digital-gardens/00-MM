@@ -52,12 +52,12 @@ email 2026-07-13, předáno i pro Gemini
     - ℹ️ pomáhá proti nespavosti
 
 
-###### Iva L. roz. B. 1981
+###### 81
 
 - částečný invalidní důchod 
 - 2 psychiatrie
 - postupně 3 antidepresiva
-- Brintellix??
+- Brintellix?
 
 (bohužel,
 mají nějaké důvody se domnívat, 
