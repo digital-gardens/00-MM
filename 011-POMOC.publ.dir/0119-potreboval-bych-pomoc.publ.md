@@ -51,13 +51,8 @@ email 2026-07-13, předáno i pro Gemini
   - mirtazapin 15 mg 0-0-0-1/4
     - ℹ️ pomáhá proti nespavosti
 
+"C:\Users\marti\OneDrive\Dokumenty\011-POMOC---doku.publ.dir\0119---.r8.md"
 
-###### 81
-
-- částečný invalidní důchod 
-- 2 psychiatrie
-- postupně 3 antidepresiva
-- Brintellix?
 
 (bohužel,
 mají nějaké důvody se domnívat, 
