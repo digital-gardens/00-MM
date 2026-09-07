@@ -10,6 +10,34 @@ a chtěl bych se zeptat,
 zda ji vidíš,
 nebo zda jsem byl zablokován (shadow-banned) na Redditu, protože jsem zveřejnil 10 odkazů v komentářích během jednoho dne.
 
+
+
+# JB Gemini ... deleted by MB, gemini anonymous next time maybe 
+
+
+c:\Users\marti\OneDrive\Dokumenty\11LAN\Jirka\JBdocu\
+04 bkup is at marti--onedrive--dokumenty--11LAN--Jirka--JBdocu YYYY
+04 COLORED DIRS ARE ACCESSIBLE FROM marti--onedrive-- . --YYYY
+
+
+could there be some kind of noun algebra
+with multiplication (product) of nouns
+... probably with more than one kind of product
+
+----
+> Kartézský součin (Specifikace a kompozita)
+> Tato operace funguje jako filtr, kde první podstatné jméno zužuje význam druhého.  #no
+?? ... domnívám se, že kartézský součin tvoří dvojice (množinu všech dvojic)
+
+
+> Tenzorový součin (Metaforické mapování)
+týká se vektorových modelů, kde se podstatná jména mapují na vektory a jejich kombinace se provádí pomocí tenzorového součinu.  ?
+
+----
+
+
+
+
 ----   
 
 @
