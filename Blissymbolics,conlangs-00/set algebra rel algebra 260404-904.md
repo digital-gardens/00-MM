@@ -24,9 +24,20 @@ https://www.wikidata.org/wiki/Q5
 https://www.wikidata.org/wiki/Q3244512
 
 //// https://en.wikipedia.org/wiki/Relation_algebra
+For the concept related to databases, see Relational algebra.
+ // relation-algebra, not relational-algebra
+
+RA can express any (and up to logical equivalence, exactly the) first-order logic (FOL) formulas containing no more than three variables.
 
 
 
+
+https://en.wikipedia.org/wiki/Relational_algebra
+not 
+https://en.wikipedia.org/wiki/Relational_algebra
+Not to be confused with Relation algebra.
+
+https://en.wikipedia.org/wiki/Codd%27s_theorem
 
 
 

@@ -87,6 +87,41 @@ run : person → ...
 
 ---
 
+20260908 #yyyy NOTATION BREAKTHROUGH Person[condition] is a type of all people who satisfy the condition. For example, Person[name = "John" and birthyear = 1950] is the type of all people named "John" who were born in 1950. .... allows to model Linzbach but I had to ALLOW FUZZY CONDITIONS #yes
+
+notation
+WELL-DEFINED-SET[INFORMAL-CONDITION] is a type of all elements of the well-defined set that satisfy the informal condition. For example, 
+Day[of work]
+or better
+Day[related to work] can 
+AD HOC
+be the type of all days that are work days.
+// without defining what is a nationally recognized work day, but just using the informal condition "related to work" to define the type of all days that are work days.
+
+
+
+Person[name = "John" and birthyear = 1950] is the type of all people named "John" who were born in 1950.
+
+to math logic, \exists x : Person, (name(x) = "John" and birthyear(x) = 1950)
+
+how can I translate
+
+any possibilities of translating
+there is a person named "John", born in 1950
+to category theory
+
+
+to set theory
+
+translate 
+to relational calculus
+
+
+, category theory, type theory, lambda calculus
+
+
+
+
 how can I translate
 Every man is a mortal
 #n complicated
