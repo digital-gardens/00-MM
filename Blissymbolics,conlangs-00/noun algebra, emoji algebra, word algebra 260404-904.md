@@ -1,4 +1,11 @@
 
+#repeatSpace
+
+edit . no, i will not name my  algebra...
+because functor olog => Set already exists
+github
+"nounAlgebra", "emojiAlgebra", "wordAlgebra"
+
 # noun algebra, emoji algebra, word algebra 260404-904
 a noun algebra could be influenced by set theory, category theory ologs , relational algebra, EDIT: and also Wikidata
 
