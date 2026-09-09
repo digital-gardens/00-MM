@@ -87,6 +87,11 @@ run : person → ...
 
 ---
 
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
+
+
+
 20260908 #yyyy NOTATION BREAKTHROUGH Person[condition] is a type of all people who satisfy the condition. For example, Person[name = "John" and birthyear = 1950] is the type of all people named "John" who were born in 1950. .... allows to model Linzbach but I had to ALLOW FUZZY CONDITIONS #yes
 
 notation
