@@ -28,7 +28,12 @@ rem remremC:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.
 
 
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--~1\grep---aaa.txt.md"
-"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+
+
+
+
 
 
 
