@@ -13871,3 +13871,5 @@ shutdown /s
 shutdown /r
 shutdown /s 
 shutdown /l
+shutdown /h
+cmd
