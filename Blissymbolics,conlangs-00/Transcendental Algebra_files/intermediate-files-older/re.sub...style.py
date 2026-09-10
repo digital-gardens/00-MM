@@ -1,3 +1,8 @@
+
+# ai
+
+# i used only the regex
+
 python - <<'PY'
 from pathlib import Path
 import re
